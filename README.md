@@ -1,4 +1,4 @@
-# DSA-Library-for-C
+# Library-implementation-for-C-program
 Data Structure and Standard Algorithms Library for  the C programming Language.
 How to use the Standard Collection Framework in your program:
 
